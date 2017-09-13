@@ -1,5 +1,5 @@
 {
-  "name": "rocket-cli",
+  "name": "rocket-c",
   "version": "1.0.0",
   "description": "A simple CLI for scaffolding your projects.",
   "preferGlobal": true,
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rocket-space/rocket-cli.git"
+    "url": "git+https://github.com/rocket-space/rocket-c.git"
   },
   "keywords": [
     "rocket",
@@ -17,9 +17,9 @@
   "author": "zeromike",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rocket-space/rocket-cli/issues"
+    "url": "https://github.com/rocket-space/rocket-c/issues"
   },
-  "homepage": "https://github.com/rocket-space/rocket-cli#readme",
+  "homepage": "https://github.com/rocket-space/rocket-c#readme",
   "main": "lib/index.js",
   "scripts": {
     "test": "npm run lint && npm run e2e",
