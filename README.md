@@ -15,6 +15,11 @@ Inspired by Vue-cli.
 
 基本上一样，只是改了一下名字
 
+```
+rocket init template project 以template模板初始化project目录
+rocket list 列出所有官方模板
+```
+
 ### License
 
 [MIT](http://opensource.org/licenses/MIT)
